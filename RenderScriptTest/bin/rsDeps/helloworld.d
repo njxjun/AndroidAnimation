@@ -1,0 +1,20 @@
+C:\workspace_luna\RenderScriptTest\bin\res\bc\raw\helloworld.bc \
+  C:\workspace_luna\RenderScriptTest\gen\com\xuzhi\rs\helloworld\ScriptC_helloworld.java: \
+  C:\workspace_luna\RenderScriptTest\src\com\example\renderscripttest\helloworld.rs \
+  F:\IDE\sdk\build-tools\21.1.2\renderscript\include\rs_core.rsh \
+  F:\IDE\sdk\build-tools\21.1.2\renderscript\include/rs_types.rsh \
+  F:\IDE\sdk\build-tools\21.1.2\renderscript\clang-include\stdbool.h \
+  F:\IDE\sdk\build-tools\21.1.2\renderscript\include/rs_allocation.rsh \
+  F:\IDE\sdk\build-tools\21.1.2\renderscript\include/rs_atomic.rsh \
+  F:\IDE\sdk\build-tools\21.1.2\renderscript\include/rs_core_math.rsh \
+  F:\IDE\sdk\build-tools\21.1.2\renderscript\include/rs_debug.rsh \
+  F:\IDE\sdk\build-tools\21.1.2\renderscript\include/rs_element.rsh \
+  F:\IDE\sdk\build-tools\21.1.2\renderscript\include/rs_math.rsh \
+  F:\IDE\sdk\build-tools\21.1.2\renderscript\include/rs_matrix.rsh \
+  F:\IDE\sdk\build-tools\21.1.2\renderscript\include/rs_object.rsh \
+  F:\IDE\sdk\build-tools\21.1.2\renderscript\include/rs_quaternion.rsh \
+  F:\IDE\sdk\build-tools\21.1.2\renderscript\include/rs_sampler.rsh \
+  F:\IDE\sdk\build-tools\21.1.2\renderscript\include/rs_time.rsh \
+  F:\IDE\sdk\build-tools\21.1.2\renderscript\include\rs_graphics.rsh \
+  F:\IDE\sdk\build-tools\21.1.2\renderscript\include/rs_mesh.rsh \
+  F:\IDE\sdk\build-tools\21.1.2\renderscript\include/rs_program.rsh
